@@ -1,0 +1,2 @@
+- cd client => go run main.go   
+- cd server => go run main.go
