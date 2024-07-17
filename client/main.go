@@ -24,7 +24,7 @@ func main() {
 
 	// runGetMovies(client)
 	 runGetMovie(client, "1")
-	 runCreateMovie(client, "24325645", "Spiderman Spiderverse",
+	 runCreateMovie(client, "2432565", "IronMAn Spiderverse",
 	 	"Stan", "Lee")
 	// runUpdateMovie(client, "98498081", "24325645", "Spiderman Spiderverse",
 	// 	"Peter", "Parker")
